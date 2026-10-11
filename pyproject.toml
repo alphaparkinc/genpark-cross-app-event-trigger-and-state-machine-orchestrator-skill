@@ -1,0 +1,1 @@
+[project]\nname = "genpark-cross-app-event-trigger-and-state-machine-orchestrator-skill"\nversion = "1.0.0"\ndescription = "Evaluates incoming webhook events and advances deterministic cross-app workflow states"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n
