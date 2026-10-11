@@ -1,0 +1,1 @@
+# genpark-cross-app-event-trigger-and-state-machine-orchestrator-skill\n\nEvaluates incoming webhook events and advances deterministic cross-app workflow states.\n\n100% Python Standard Library implementation with zero external dependencies.
